@@ -4,7 +4,9 @@
 
 I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [University of Coimbra](uc.pt/en) 👨‍🎓.
 
-<img align="right" height = "200" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"/>
+<img align="right" height = "300" alt="GIF" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"/>
+
+<br />
 
 ### 💻 About me:
 
