@@ -10,8 +10,7 @@ Last year student of Informatics Enginner at [University of Coimbra](uc.pt/en)
 - 🌱 I’m currently learning C++
 - 💼 I’m looking forward for a Master Degree
 - 📝 [Resume](https://en.wikipedia.org/wiki/HTTP_404)
-
-### Connect with me:
+- 📫 How to reach me:
 
 [<img align="left" width="22px" alt="Website" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/global.svg"/>][website]
 [<img align="left" width="22px" alt="Twitter" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/twitter.svg"/>][twitter]
