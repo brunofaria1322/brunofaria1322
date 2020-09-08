@@ -40,7 +40,7 @@ Student of Informatics Enginner at [University of Coimbra](uc.pt/en)
 <br />
 
 
-[website]: https://brunofaria1322.github.com
+[website]: https://brunofaria1322.github.io
 [twitter]: https://twitter.com/brunofaria_1322
 [instagram]: https://instagram.com/brunofaria_1322
 [linkedin]: https://linkedin.com/in/bruno-faria
