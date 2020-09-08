@@ -35,7 +35,7 @@ Student of Informatics Enginner at [University of Coimbra](uc.pt/en)
 <img align="left" width="30px" alt= "C" src="assets/skills/c.svg"/>
 <img align="left" width="30px" alt= "Matlab" src="assets/skills/matlab.svg"/>
 <img align="left" width="30px" alt= "Java" src="assets/skills/java.svg"/>
-<img align="left" width="30px" alt= "Visual Studio Code" src="assets/skills/vscode.svg"/>
+<img align="left" width="25px" alt= "Visual Studio Code" src="assets/skills/vscode.svg"/>
 
 <br />
 
