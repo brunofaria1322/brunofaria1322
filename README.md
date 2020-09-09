@@ -36,6 +36,75 @@ I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [Univ
 ### 💻 Activity:
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-152-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 124 Contributions in the Year 2020
+ > 
+> 📦 25.1 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories
+ > 
+> 🔑 4 Private Repositories 
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+🌆 Daytime    113 commits    ████████░░░░░░░░░░░░░░░░░   32.1% 
+🌃 Evening    123 commits    ████████░░░░░░░░░░░░░░░░░   34.94% 
+🌙 Night      94 commits     ██████░░░░░░░░░░░░░░░░░░░   26.7%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+Tuesday      75 commits     █████░░░░░░░░░░░░░░░░░░░░   21.31% 
+Wednesday    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.06% 
+Thursday     54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
+Friday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.35% 
+Saturday     31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
+Sunday       59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Lisbon
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C** 
+
+```text
+C                        4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   30.77% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Python                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+MATLAB                   1 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 
 
