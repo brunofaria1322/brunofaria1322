@@ -31,12 +31,17 @@ I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [Univ
 <img align="left" width="30px" alt= "Visual Studio Code" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/vscode.svg"/>
 
 <br />
+<br />
+
+### 💻 Activity:
 
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<br />
 
 ### 📫 How to reach me:
 
