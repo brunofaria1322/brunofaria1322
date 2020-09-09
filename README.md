@@ -33,6 +33,9 @@ I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [Univ
 <br />
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### 📫 How to reach me:
