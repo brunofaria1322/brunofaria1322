@@ -32,6 +32,9 @@ I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [Univ
 
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 📫 How to reach me:
 
 [<img align="left" width="22px" alt="Website" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/global.svg"/>][website]
