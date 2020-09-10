@@ -35,7 +35,7 @@ I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [Univ
 
 ### 💻 Activity:
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:stats-->
 **I am a Night guy 🌙** 
 
 ```text
@@ -64,7 +64,7 @@ Dockerfile   117 bytes      ░░░░░░░░░░░░░░░░░�
 ```
 
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:stats-->
 
 
 ### 📫 How to reach me:

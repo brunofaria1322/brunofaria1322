@@ -89,8 +89,8 @@ def generate_content(user):
     return string
 
 if __name__ == "__main__":
-    START_COMMENT = '<!--START_SECTION:waka-->'
-    END_COMMENT = '<!--END_SECTION:waka-->'
+    START_COMMENT = '<!--START_SECTION:stats-->'
+    END_COMMENT = '<!--END_SECTION:stats-->'
     listReg = f"{START_COMMENT}[\\s\\S]+{END_COMMENT}"
 
 
