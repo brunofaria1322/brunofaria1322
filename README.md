@@ -2,7 +2,7 @@
 
 ### 👋 Hi there
 
-I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [University of Coimbra](uc.pt/en) 👨‍🎓.
+I'm Bruno Faria, a portuguese student in the last year of Informatics Engineer at [University of Coimbra](uc.pt/en) 👨‍🎓.
 
 <br/>
 
