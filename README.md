@@ -15,7 +15,7 @@ I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [Univ
 
 <br />
 
-### 💻 About me:
+### 📕 About me:
 
 - 🔭 I’m currently working on university projects
 - 🌱 I’m currently learning C++
@@ -40,7 +40,7 @@ I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [Univ
 <br />
 <br />
 
-### 💻 Activity:
+### 🚩 Activity:
 
 <!--START_SECTION:stats-->
 **I am a Night guy 🌙** 

@@ -69,7 +69,7 @@ def generate_content(user):
 
     string = "**" + title + "** \n\n" + "```text\n" + make_commit_list(one_day) + "\n\n```\n"
 
-    title = 'What I most programm'
+    title = 'What I most programm 👨🏽‍💻'
 
 
     languages_full = []
