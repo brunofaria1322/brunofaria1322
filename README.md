@@ -4,6 +4,13 @@
 
 I'm Bruno Faria, a portuguese last year student of Informatics Enginner at [University of Coimbra](uc.pt/en) 👨‍🎓.
 
+<br/>
+
+[<img align="left" width="22px" alt="Website" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/global.svg"/>][website]
+[<img align="left" width="22px" alt="Twitter" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/twitter.svg"/>][twitter]
+[<img align="left" width="22px" alt="LinkedIn" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/linkedin.svg"/>][linkedin]
+[<img align="left" width="22px" alt="Instagram" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/instagram.svg"/>][instagram]
+
 <img align="right" height = "280" alt="GIF" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/animation.gif"/>
 
 <br />
@@ -66,13 +73,6 @@ Dockerfile   117 bytes      ░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:stats-->
 
-
-### 📫 How to reach me:
-
-[<img align="left" width="22px" alt="Website" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/global.svg"/>][website]
-[<img align="left" width="22px" alt="Twitter" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/twitter.svg"/>][twitter]
-[<img align="left" width="22px" alt="LinkedIn" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/linkedin.svg"/>][linkedin]
-[<img align="left" width="22px" alt="Instagram" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/instagram.svg"/>][instagram]
 
 [website]: https://brunofaria1322.github.io
 [twitter]: https://twitter.com/brunofaria_1322
