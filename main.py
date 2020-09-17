@@ -6,8 +6,7 @@ def make_graph(percent: float):
     '''Make progress graph from API graph'''
     done_block = '█'
     empty_block = '░'
-    pc_rnd = round(percent)
-    return done_block * int(pc_rnd / 4)+empty_block *(25 - int(pc_rnd / 4))
+    return done_block * round(percent / 4)+empty_block *(25 - round(percent / 4))
 
 
 def make_commit_list(data: list):
