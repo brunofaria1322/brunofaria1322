@@ -18,7 +18,7 @@ I'm Bruno Faria, a portuguese student in the last year of Informatics Engineer a
 ### 📕 About me:
 
 - 🔭 I’m currently working on university projects
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and OpenGL
 - 💼 I’m looking forward for a Master Degree
 - 💙 Beside's programming, I love Music.
 - 📝 [Resume](https://en.wikipedia.org/wiki/HTTP_404)
