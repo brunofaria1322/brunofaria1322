@@ -58,7 +58,7 @@ I'm Bruno Faria, a portuguese student in the last year of Informatics Engineer a
 Python       6176614 bytes  ██████████████░░░░░░░░░░░	57.88% 
 Java         1949700 bytes  █████░░░░░░░░░░░░░░░░░░░░	18.27% 
 C            1456978 bytes  ███░░░░░░░░░░░░░░░░░░░░░░	13.65% 
-Jupyter Notebook489784 bytes   █░░░░░░░░░░░░░░░░░░░░░░░░	4.59% 
+Jupyter Notebook490642 bytes   █░░░░░░░░░░░░░░░░░░░░░░░░	4.6% 
 C++          184994 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	1.73% 
 JavaScript   159916 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	1.5% 
 HTML         58928 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.55% 
