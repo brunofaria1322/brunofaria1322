@@ -57,7 +57,7 @@ I'm Bruno Faria, a portuguese student in the last year of Informatics Engineer a
 ```text
 C++          121396755 bytes███████████████████░░░░░░	74.54% 
 C            13153148 bytes ██░░░░░░░░░░░░░░░░░░░░░░░	8.08% 
-Python       7741230 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	4.75% 
+Python       7738821 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	4.75% 
 Java         5327348 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	3.27% 
 Jupyter Notebook4626616 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	2.84% 
 Jinja        4263716 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	2.62% 
