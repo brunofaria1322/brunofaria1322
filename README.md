@@ -2,7 +2,7 @@
 
 ### 👋 Hi there
 
-I'm Bruno Faria, a portuguese student in the last year of Informatics Engineer at [University of Coimbra](uc.pt/en) 👨‍🎓.
+I'm Bruno Faria, a portuguese student doing my PhD in Informatics Engineering at the [University of Coimbra](uc.pt/en) 👨‍🎓.
 
 <br/>
 
@@ -17,10 +17,9 @@ I'm Bruno Faria, a portuguese student in the last year of Informatics Engineer a
 
 ### 📕 About me:
 
-- 🔭 I’m currently working on university projects
-- 🌱 I’m currently learning C++ and OpenGL
-- 💼 I’m looking forward for a Master Degree
-- 💙 Beside's programming, I love Music.
+- 🔭 I’m currently working on my PhD proposal/thesis
+- 🌐 I’m currently learning more about AI in Networks
+- 💙 Besides programming, I love Music.
 - 📝 [Resume](https://en.wikipedia.org/wiki/HTTP_404)
 
 
