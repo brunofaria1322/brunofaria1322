@@ -7,7 +7,6 @@ I'm Bruno Faria, a portuguese student doing my PhD in Informatics Engineering at
 <br/>
 
 [<img align="left" width="22px" alt="Website" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/global.svg"/>][website]
-[<img align="left" width="22px" alt="Twitter" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/twitter.svg"/>][twitter]
 [<img align="left" width="22px" alt="LinkedIn" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/linkedin.svg"/>][linkedin]
 [<img align="left" width="22px" alt="Instagram" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/social/instagram.svg"/>][instagram]
 
@@ -24,75 +23,9 @@ I'm Bruno Faria, a portuguese student doing my PhD in Informatics Engineering at
 
 
 <br />
-
-### 💻 Languages and Tools:
-
-<img align="left" width="30px" alt= "Python" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/python.svg"/>
-<img align="left" width="30px" alt= "Html5" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/html5.svg"/>
-<img align="left" width="30px" alt= "Css3" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/css3.svg"/>
-<img align="left" width="30px" alt= "JavaScript" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/javascript.svg"/>
-<img align="left" width="30px" alt= "C" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/c.svg"/>
-<img align="left" width="30px" alt= "Matlab" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/matlab.svg"/>
-<img align="left" width="30px" alt= "Java" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/java.svg"/>
-<img align="left" width="30px" alt= "Visual Studio Code" src="https://github.com/brunofaria1322/brunofaria1322/blob/master/assets/skills/vscode.svg"/>
-
 <br />
-<br />
-
-### 🚩 Activity:
-
-<!--START_SECTION:stats-->
-**I am a Night guy 🌙** 
-
-```text
-🌞 Morning    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░	10.0% 
-🌆 Daytime    126 commits    ████████░░░░░░░░░░░░░░░░░	31.5% 
-🌃 Evening    159 commits    ██████████░░░░░░░░░░░░░░░	39.75% 
-🌙 Night      75 commits     █████░░░░░░░░░░░░░░░░░░░░	18.75%
-
-```
-**What I most programm 👨🏽‍💻** 
-
-```text
-C++          121498439 bytes█████████████████░░░░░░░░	66.58% 
-Jupyter Notebook23678071 bytes ███░░░░░░░░░░░░░░░░░░░░░░	12.98% 
-C            13153148 bytes ██░░░░░░░░░░░░░░░░░░░░░░░	7.21% 
-Python       6900553 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	3.78% 
-Java         5327348 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	2.92% 
-Jinja        4263716 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	2.34% 
-Roff         4226825 bytes  █░░░░░░░░░░░░░░░░░░░░░░░░	2.32% 
-JavaScript   1134851 bytes  ░░░░░░░░░░░░░░░░░░░░░░░░░	0.62% 
-TeX          446567 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.24% 
-Objective-C++404486 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.22% 
-HCL          249411 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.14% 
-Shell        218651 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.12% 
-ASP.NET      181725 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.1% 
-HTML         142353 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.08% 
-CSS          128392 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.07% 
-MATLAB       126829 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.07% 
-Objective-C  123919 bytes   ░░░░░░░░░░░░░░░░░░░░░░░░░	0.07% 
-C#           81689 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.04% 
-R            53425 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.03% 
-PowerShell   27629 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.02% 
-SCSS         24090 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.01% 
-Yacc         18563 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.01% 
-PLpgSQL      17302 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.01% 
-Makefile     11144 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.01% 
-Batchfile    11002 bytes    ░░░░░░░░░░░░░░░░░░░░░░░░░	0.01% 
-Lex          9594 bytes     ░░░░░░░░░░░░░░░░░░░░░░░░░	0.01% 
-TypeScript   8333 bytes     ░░░░░░░░░░░░░░░░░░░░░░░░░	0.0% 
-Dockerfile   8326 bytes     ░░░░░░░░░░░░░░░░░░░░░░░░░	0.0% 
-Groovy       6244 bytes     ░░░░░░░░░░░░░░░░░░░░░░░░░	0.0% 
-Smarty       2298 bytes     ░░░░░░░░░░░░░░░░░░░░░░░░░	0.0% 
-Ruby         2000 bytes     ░░░░░░░░░░░░░░░░░░░░░░░░░	0.0% 
-PHP          431 bytes      ░░░░░░░░░░░░░░░░░░░░░░░░░	0.0%
-```
-
-
-<!--END_SECTION:stats-->
 
 
 [website]: https://brunofaria1322.github.io
-[twitter]: https://twitter.com/brunofaria_1322
 [instagram]: https://instagram.com/brunofaria_1322
 [linkedin]: https://linkedin.com/in/bruno-faria
